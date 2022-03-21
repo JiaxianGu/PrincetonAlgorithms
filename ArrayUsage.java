@@ -1,14 +1,10 @@
+import edu.princeton.cs.algs4.StdOut;
+
 public class ArrayUsage {
     public static void main(String[] args) {
 
-        double[] a;
-        a = new double[5];
-        for (int i = 0; i < N; i++) {
-            a[i] = 0.0;
-        }
-
-        /* initialize 2-d array */
-        double [][] a = new double[5][6];
+        System.out.println(Integer.toString(5));
+        System.out.printf("%.2f\n", 3.1415);
 
 
     }
